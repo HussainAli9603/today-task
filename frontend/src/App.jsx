@@ -9,7 +9,7 @@ function App() {
       <header style={{ padding: '1rem', background: '#f8f9fa', borderBottom: '1px solid #ddd' }}>
         <nav>
           <Link to="/" style={{ marginRight: '2rem', textDecoration: 'none' }}>Home</Link>
-          <Link to="/about" style={{ textDecoration: 'none' }}>About Usssssss</Link> {/* Task 2 */}
+          <Link to="/about" style={{ textDecoration: 'none' }}>About Us</Link> {/* Task 2 */}
         </nav>
       </header>
 
